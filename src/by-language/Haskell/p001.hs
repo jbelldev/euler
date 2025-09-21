@@ -1,0 +1,1 @@
+/home/jordan/Projects/Project Euler/src/by-problem/p001/p001.hs

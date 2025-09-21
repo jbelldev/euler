@@ -1,0 +1,9 @@
+#+title: Project Euler Solutions
+#+subtitle: Collected solutions for Project Euler
+#+date: 2025-09-20
+#+author: Jordan Bell
+#+email: jbell.anthony@gmail.com
+
+Collected solutions for Project Euler.
+
+Solutions are organized primarily by problem, but can also be checked by language.
