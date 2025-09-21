@@ -6,4 +6,6 @@
 
 Collected solutions for Project Euler.
 
-Solutions are organized primarily by problem, but can also be checked by language.
+Solutions are organized primarily [[file:src/by-problem/][by problem]], but can also be checked [[file:src/by-language/][by language]].
+
+Where possible, each language should use an interpreter directive to enable checking each script directly, and each will output the answer to the test solution as well as the full solution. This enables not only testing each individual problem with the same framework, but enables comparisons of them more easily.
