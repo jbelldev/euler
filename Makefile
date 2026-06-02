@@ -6,7 +6,7 @@
 
 LANGS := hs scm  # Languages extensions to search for
 BIN   := .build
-BENCH := guix shell hyperfine -- hyperfine --warmup=3 --shell=none
+BENCH := hyperfine --warmup=3 --shell=none
 .DEFAULT_GOAL := help
 
 # --- Discovery -------------------------------------------------------
